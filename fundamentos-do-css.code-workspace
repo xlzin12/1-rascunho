@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "fundamentos-do-css",
+			"path": ".."
+		},
+		{
+			"name": "img",
+			"path": "../../../Desktop/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fundamentos-do-css"
+	}
+}
